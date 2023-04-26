@@ -14,3 +14,7 @@ model.fit(X, y)
 prediction = model.predict([[4]])
 
 print(f'Prediction: {prediction[0]}')
+
+
+print('I am editing this file for the propose of git')
+print('I am in second branch')
